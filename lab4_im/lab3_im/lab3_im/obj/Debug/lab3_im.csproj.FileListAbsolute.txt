@@ -1,0 +1,10 @@
+C:\Users\kreit\source\repos\lab3_im\lab3_im\bin\Debug\lab3_im.exe.config
+C:\Users\kreit\source\repos\lab3_im\lab3_im\bin\Debug\lab3_im.exe
+C:\Users\kreit\source\repos\lab3_im\lab3_im\bin\Debug\lab3_im.pdb
+C:\Users\kreit\source\repos\lab3_im\lab3_im\obj\Debug\lab3_im.csproj.AssemblyReference.cache
+C:\Users\kreit\source\repos\lab3_im\lab3_im\obj\Debug\lab3_im.Form1.resources
+C:\Users\kreit\source\repos\lab3_im\lab3_im\obj\Debug\lab3_im.Properties.Resources.resources
+C:\Users\kreit\source\repos\lab3_im\lab3_im\obj\Debug\lab3_im.csproj.GenerateResource.cache
+C:\Users\kreit\source\repos\lab3_im\lab3_im\obj\Debug\lab3_im.csproj.CoreCompileInputs.cache
+C:\Users\kreit\source\repos\lab3_im\lab3_im\obj\Debug\lab3_im.exe
+C:\Users\kreit\source\repos\lab3_im\lab3_im\obj\Debug\lab3_im.pdb
